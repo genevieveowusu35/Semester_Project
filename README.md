@@ -2,6 +2,8 @@
 
 # Name: Genevieva Owusu Boafowaa
 
+# Class: Information Technology (B)
+
 # ID: UEB3206022
 
 Project Description :
